@@ -4,4 +4,4 @@
 
 
 #### 1.12.x
-[1.12.2-forge](https://wwz.lanzouq.com/iBBbi1ry2t7g)：forge-14.23.5.2859
+[1.12.2](https://wwz.lanzouq.com/iBBbi1ry2t7g)：forge-14.23.5.2859
