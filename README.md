@@ -1,4 +1,3 @@
-# mc-server-core
 ## 用于存储已下载好且可运行的forge服务端核心，帮助网络环境无法运行forge的朋友下载服务端
 ## 默认关闭online-mode
 
