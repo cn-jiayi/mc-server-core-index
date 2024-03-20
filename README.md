@@ -4,5 +4,8 @@
 #### 1.12.x
 [1.12.2](https://wwz.lanzouq.com/i3jbO1rylyjc)：forge-14.23.5.2859
 
+#### 1.14.x
+[1.14.4](https://wwz.lanzouq.com/iYKZ01ryn10h)：forge-28.2.26
+
 #### 1.15.x
 [1.15.2](https://wwz.lanzouq.com/iaCXF1rym6ub)：forge-31.2.57
